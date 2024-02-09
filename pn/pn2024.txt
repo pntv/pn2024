@@ -1413,6 +1413,18 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 
 
 4K频道,#genre#
+CCTV4K-HLG-36Mbps-50FPS-移动满血,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+
+CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听,http://1.14.131.61:8765/av3a4k50fps.php
+
+CCTV8K-HLG-50FPS-AV3A-臻彩视听,http://1.14.131.61:8654/av3a8k50fps.php
+
+移动8K-1-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+
+移动8K-2-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+
+移动8K-3-150Mbps-50FPS-HLG-AVS3,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
+
 测试CCTV5-4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 测试体育频道-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 CCTV1-16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
