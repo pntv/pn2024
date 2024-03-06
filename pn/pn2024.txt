@@ -366,6 +366,34 @@ CCTV-5+ 体育赛事ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000
 精品体育IPV6,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 精品体育IPV6,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
 
+
+
+香港之声,#genre#
+无线体育财经1,https://vdm6-ali.gdtuohang.com/live/h6-2.flv
+无线体育财经2,https://vdm6-cnts.onmve.com/live/h6-2.flv
+无线体育财经3,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+无线体育财经4,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+无线体育财经5,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+无线体育财经6,https://vdm6-ali.gdtuohang.com/live/h6-2.flv
+无线体育财经7,https://vdm6-cnts.onmve.com/live/h6-2.flv
+无线体育财经8,https://yyy.mmzj.net/lives/123678.flv
+ontv 東網視頻,https://streamw-azs-51.on.cc/src/smil:remote1_hd.smil/playlist.m3u8
+澳门影院(老),#genre#
+澳门1,https://play666.macau-lhc.live/live/mosixmark.flv
+澳门2,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+澳门3,https://vdm6-cnts.onmve.com/live/a6-2.flv
+澳门4,https://vdm6-cnts.onmve.com/live/a6-2.flv
+澳门5,https://play888.00853lhc.live/live/mosixmark.flv
+澳门6,https://vdm6-cnts.onmve.com/live/a6-2.flv
+澳门7,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+澳门8,https://play888.00853lhc.live/live/mosixmark.flv
+澳门9,artc://aa.jmied.com/aa/aa?auth_key=1661059701-0-0-f73c3e2a6695ee93c7a9757ecc052066
+澳门影院(新),#genre#
+澳门1,https://vdm9-ali.cghxk.com/live/2099-2.flv
+澳门2,https://vdm9-bp.rbbnong.com/live/2099-2.flv
+
+
+
 祥港,#genre#
 
 
