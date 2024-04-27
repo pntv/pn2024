@@ -54,14 +54,8 @@
 汕尾新闻高清,http://113.65.9.134:4014/udp/239.77.0.25:5146
 汕尾文化高清,http://113.65.9.134:4014/udp/239.77.0.187:5146
 
-揭西高清,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
-揭西台,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
-揭阳公共,http://jxtv3.gdsz.eu.org:8081/hls/22/index.m3u8
-揭阳综合,http://jxtv3.gdsz.eu.org:8081/hls/21/index.m3u8
-潮州综合,http://jxtv3.gdsz.eu.org:8081/hls/23/index.m3u8
-汕头台,http://jxtv3.gdsz.eu.org:8081/hls/24/index.m3u8
-揭西综合频道,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
-揭西综合频道2,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
+揭西综合高清,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
+揭西综合台,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
 
 
 潮州民生,http://113.98.122.166:9901/tsfile/live/1065_1.m3u8
@@ -80,7 +74,7 @@
 汕头二台,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8
 汕头三台,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8
 
-潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+
 揭阳综合,http://php.jdshipin.com:8880/tianma.php?id=jyzh
 揭阳生活,http://php.jdshipin.com:8880/tianma.php?id=jysh
 汕头综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
