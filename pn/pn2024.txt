@@ -250,71 +250,7 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
 
 
-广东卫视,http://113.98.122.166:9901/tsfile/live/1018_1.m3u8
-大湾区卫视,http://113.98.122.166:9901/tsfile/live/1019_1.m3u8
-广东珠江,http://113.98.122.166:9901/tsfile/live/1054_1.m3u8
-广东新闻,http://113.98.122.166:9901/tsfile/live/1055_1.m3u8
-广东民生,http://113.98.122.166:9901/tsfile/live/1056_1.m3u8
-广东体育,http://113.98.122.166:9901/tsfile/live/1057_1.m3u8
-经济科教,http://113.98.122.166:9901/tsfile/live/1058_1.m3u8
-广东影视,http://113.98.122.166:9901/tsfile/live/1059_1.m3u8
-广东少儿,http://113.98.122.166:9901/tsfile/live/1060_1.m3u8
-广州综合,http://113.98.122.166:9901/tsfile/live/1061_1.m3u8
-广州新闻,http://113.98.122.166:9901/tsfile/live/1062_1.m3u8
-广州影视,http://113.98.122.166:9901/tsfile/live/1063_1.m3u8
-广州法治,http://113.98.122.166:9901/tsfile/live/1064_1.m3u8
-潮州民生,http://113.98.122.166:9901/tsfile/live/1065_1.m3u8
-现代教育,http://113.98.122.166:9901/tsfile/live/1066_1.m3u8
-广东移动,http://113.98.122.166:9901/tsfile/live/1067_1.m3u8
-卡酷动画,http://113.98.122.166:9901/tsfile/live/1068_1.m3u8
-金鹰卡通,http://113.98.122.166:9901/tsfile/live/1069_1.m3u8
-炫动卡通,http://113.98.122.166:9901/tsfile/live/1070_1.m3u8
-优漫卡通,http://113.98.122.166:9901/tsfile/live/1071_1.m3u8
-嘉佳卡通,http://113.98.122.166:9901/tsfile/live/1072_1.m3u8
 
-
-
-广东公共,http://jxtv3.gdsz.eu.org:8081/hls/27/index.m3u8
-广东体育高清,http://jxtv3.gdsz.eu.org:8081/hls/1/index.m3u8
-广东新闻,http://jxtv3.gdsz.eu.org:8081/hls/28/index.m3u8
-经济科教,http://jxtv3.gdsz.eu.org:8081/hls/29/index.m3u8
-南方都市,http://jxtv3.gdsz.eu.org:8081/hls/30/index.m3u8
-广东影视,http://jxtv3.gdsz.eu.org:8081/hls/31/index.m3u8
-广东少儿,http://jxtv3.gdsz.eu.org:8081/hls/32/index.m3u8
-动作电影,http://jxtv3.gdsz.eu.org:8081/hls/34/index.m3u8
-家庭影院,http://jxtv3.gdsz.eu.org:8081/hls/35/index.m3u8
-现代教育,http://jxtv3.gdsz.eu.org:8081/hls/109/index.m3u8
-优漫卡通,http://jxtv3.gdsz.eu.org:8081/hls/128/index.m3u8
-广东卫视,http://jxtv3.gdsz.eu.org:8081/hls/140/index.m3u8
-深圳都市频道,http://jxtv3.gdsz.eu.org:8081/hls/68/index.m3u8
-深圳电视剧频道,http://jxtv3.gdsz.eu.org:8081/hls/69/index.m3u8
-深圳体育健康,http://jxtv3.gdsz.eu.org:8081/hls/70/index.m3u8
-深圳电视剧频道,http://jxtv3.gdsz.eu.org:8081/hls/141/index.m3u8
-深圳体育健康,http://jxtv3.gdsz.eu.org:8081/hls/142/index.m3u8
-
-
-
-
-广东卫视,http://113.98.122.166:9901/tsfile/live/1018_1.m3u8
-大湾区卫视,http://113.98.122.166:9901/tsfile/live/1019_1.m3u8
-广东珠江,http://113.98.122.166:9901/tsfile/live/1054_1.m3u8
-广东新闻,http://113.98.122.166:9901/tsfile/live/1055_1.m3u8
-广东民生,http://113.98.122.166:9901/tsfile/live/1056_1.m3u8
-广东体育,http://113.98.122.166:9901/tsfile/live/1057_1.m3u8
-经济科教,http://113.98.122.166:9901/tsfile/live/1058_1.m3u8
-广东影视,http://113.98.122.166:9901/tsfile/live/1059_1.m3u8
-广东少儿,http://113.98.122.166:9901/tsfile/live/1060_1.m3u8
-广州综合,http://113.98.122.166:9901/tsfile/live/1061_1.m3u8
-广州新闻,http://113.98.122.166:9901/tsfile/live/1062_1.m3u8
-广州影视,http://113.98.122.166:9901/tsfile/live/1063_1.m3u8
-广州法治,http://113.98.122.166:9901/tsfile/live/1064_1.m3u8
-
-
-
-广东卫视,http://113.81.20.104:9901/tsfile/live/0018_1.m3u8?key=txiptv
-广东珠江,http://113.81.20.104:9901/tsfile/live/0019_1.m3u8?key=txiptv
-广东新闻,http://113.81.20.104:9901/tsfile/live/1000_1.m3u8?key=txiptv
-广东公共,http://113.81.20.104:9901/tsfile/live/1001_1.m3u8?key=txiptv
 
 
 
@@ -325,11 +261,6 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 
 
 广东体育,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gdty
-广东体育,http://113.81.20.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-
-广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
-
-
 
 
 广东体育高清,http://119.23.60.89:8832/udp/239.77.0.112:5146
@@ -408,12 +339,8 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 凤凰卫视中文台,http://113.64.145.100:8081/hls/37/index.m3u8
 凤凰卫视资讯台,http://113.64.145.100:8081/hls/36/index.m3u8
 
-凤凰卫视中文台,http://113.64.145.93:8081/hls/37/index.m3u8
 
-凤凰卫视中文台,http://113.64.145.61:8081/hls/37/index.m3u8
 
-凤凰卫视资讯台,http://113.64.145.93:8081/hls/36/index.m3u8
-凤凰卫视资讯台,http://113.64.145.61:8081/hls/36/index.m3u8
 凤凰资讯高清,http://jxtv3.gdsz.eu.org:8081/hls/36/index.m3u8
 凤凰卫视高清,http://jxtv3.gdsz.eu.org:8081/hls/37/index.m3u8
 凤凰香港高清,http://jxtv3.gdsz.eu.org:8081/hls/38/index.m3u8
@@ -434,11 +361,11 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 
 凤凰中文IPV6,http://113.64.145.100:8081/hls/37/index.m3u8
 凤凰资讯IPV6,http://113.64.145.100:8081/hls/36/index.m3u8
-凤凰中文IPV6,http://113.64.145.93:8081/hls/37/index.m3u8
-凤凰中文IPV6,http://113.64.145.61:8081/hls/37/index.m3u8
+凤凰中文IPV6,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 
-凤凰资讯IPV6,http://113.64.145.93:8081/hls/36/index.m3u8
-凤凰资讯IPV6,http://113.64.145.61:8081/hls/36/index.m3u8
+
+凤凰资讯IPV6,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+
 
 凤凰香港IPV6,http://113.64.145.61:8081/hls/38/index.m3u8
 凤凰香港IPV6,http://jyjxy.7766.org:8811/hls/34/index.m3u8
@@ -533,12 +460,10 @@ now财经台,P2p://135.148.104.228:19806/88f95058c046453a973e2540701ccb4e
 三立新闻,http://66.165.240.154:8080/live/slxw01/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt02/hls.m3u8
-东森新闻台,http://startv365.com:80/live/9794783213/6955630461/5536.m3u8
 
 
-中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻HD,http://66.165.240.154:8080/live/ztylt13/hls.m3u8
-三立新闻,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+
 三立新闻2,http://66.165.240.154:8080/live/slxw02/hls.m3u8
 民视新闻HD,http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
 台视新闻HD,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
