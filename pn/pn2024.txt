@@ -2,10 +2,9 @@
 
 
 
-
+普宁台,http://php.jdshipin.com:8880/PLTV/chudian.php?id=pnzh
 普宁台,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 普宁台,http://xxw.me0.cn/php/cdian.php?id=pnzh
-普宁台,http://php.jdshipin.com:8880/PLTV/chudian.php?id=pnzh
 普宁台,https://stqznews.top/tv/live/pnt.php
 
 
@@ -13,30 +12,30 @@
 
 
 
-揭阳综合高清,http://61.144.103.177:8090/udp/239.77.0.229:5146
-揭阳公共高清,http://61.144.103.177:8090/udp/239.77.0.251:5146
-汕头综合高清,http://61.144.103.177:8090/udp/239.77.1.130:5146
-汕头综合高清,http://61.144.103.177:8090/udp/239.253.43.45:5146
-汕头经济生活高清,http://61.144.103.177:8090/udp/239.77.1.131:5146
-汕头经济生活高清,http://61.144.103.177:8090/udp/239.253.43.46:5146
-汕头文旅体育高清,http://61.144.103.177:8090/udp/239.77.1.132:5146
-汕头文旅体育高清,http://61.144.103.177:8090/udp/239.253.43.47:5146
-汕尾新闻高清,http://61.144.103.177:8090/udp/239.77.0.25:5146
-汕尾文化高清,http://61.144.103.177:8090/udp/239.77.0.187:5146
+揭阳综合高清,http://119.23.60.89:8832/udp/239.77.0.229:5146
+揭阳公共高清,http://119.23.60.89:8832/udp/239.77.0.251:5146
+汕头综合高清,http://119.23.60.89:8832/udp/239.77.1.130:5146
+汕头综合高清,http://119.23.60.89:8832/udp/239.253.43.45:5146
+汕头经济生活高清,http://119.23.60.89:8832/udp/239.77.1.131:5146
+汕头经济生活高清,http://119.23.60.89:8832/udp/239.253.43.46:5146
+汕头文旅体育高清,http://119.23.60.89:8832/udp/239.77.1.132:5146
+汕头文旅体育高清,http://119.23.60.89:8832/udp/239.253.43.47:5146
+汕尾新闻高清,http://119.23.60.89:8832/udp/239.77.0.25:5146
+汕尾文化高清,http://119.23.60.89:8832/udp/239.77.0.187:5146
 
 
 
 
-揭阳综合高清,http://113.87.225.53:5000/udp/239.77.0.229:5146
-揭阳公共高清,http://113.87.225.53:5000/udp/239.77.0.251:5146
-汕头综合高清,http://113.87.225.53:5000/udp/239.77.1.130:5146
-汕头综合高清,http://113.87.225.53:5000/udp/239.253.43.45:5146
-汕头经济生活高清,http://113.87.225.53:5000/udp/239.77.1.131:5146
-汕头经济生活高清,http://113.87.225.53:5000/udp/239.253.43.46:5146
-汕头文旅体育高清,http://113.87.225.53:5000/udp/239.77.1.132:5146
-汕头文旅体育高清,http://113.87.225.53:5000/udp/239.253.43.47:5146
-汕尾新闻高清,http://113.87.225.53:5000/udp/239.77.0.25:5146
-汕尾文化高清,http://113.87.225.53:5000/udp/239.77.0.187:5146
+揭阳综合高清,http://113.74.224.24:8686/udp/239.77.0.229:5146
+揭阳公共高清,http://113.74.224.24:8686/udp/239.77.0.251:5146
+汕头综合高清,http://113.74.224.24:8686/udp/239.77.1.130:5146
+汕头综合高清,http://113.74.224.24:8686/udp/239.253.43.45:5146
+汕头经济生活高清,http://113.74.224.24:8686/udp/239.77.1.131:5146
+汕头经济生活高清,http://113.74.224.24:8686/udp/239.253.43.46:5146
+汕头文旅体育高清,http://113.74.224.24:8686/udp/239.77.1.132:5146
+汕头文旅体育高清,http://113.74.224.24:8686/udp/239.253.43.47:5146
+汕尾新闻高清,http://113.74.224.24:8686/udp/239.77.0.25:5146
+汕尾文化高清,http://113.74.224.24:8686/udp/239.77.0.187:5146
 
 
 
@@ -58,10 +57,6 @@
 揭西综合台,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
 
 
-潮州民生,http://113.98.122.166:9901/tsfile/live/1065_1.m3u8
-揭阳综合,http://183.237.246.14:9931/tsfile/live/1134_1.m3u8
-揭阳公共,http://183.237.246.14:9931/tsfile/live/1135_1.m3u8
-潮州公共,http://183.237.246.14:9931/tsfile/live/1136_1.m3u8
 
 汕头经济,https://stqznews.top/tv/live/stjjhd.php 
 汕头文旅,https://stqznews.top/tv/live/stwlhd.php
@@ -69,10 +64,6 @@
 汕头综合HD,https://stqznews.top/tv/live/stzhhd.php 
 汕头经济HD,https://stqznews.top/tv/live/stjjhd.php
 
-
-汕头一台,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8
-汕头二台,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8
-汕头三台,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8
 
 
 揭阳综合,http://php.jdshipin.com:8880/tianma.php?id=jyzh
@@ -95,74 +86,74 @@
 
 
 
-广东卫视高清,http://61.144.103.177:8090/udp/239.77.1.19:5146
-广东卫视高清,http://61.144.103.177:8090/udp/239.77.1.152:5146
-广东卫视高清,http://61.144.103.177:8090/udp/239.77.0.84:5146
-广东卫视超清,http://61.144.103.177:8090/udp/239.77.0.166:5146
-南方卫视高清,http://61.144.103.177:8090/udp/239.77.0.215:5146
-南方卫视,http://61.144.103.177:8090/udp/239.77.0.9:5146
-南方卫视,http://61.144.103.177:8090/udp/239.77.1.12:5146
-广东珠江高清,http://61.144.103.177:8090/udp/239.77.0.1:5146
-广东珠江超清,http://61.144.103.177:8090/udp/239.77.0.114:5146
-广东新闻高清,http://61.144.103.177:8090/udp/239.77.0.173:5146
-广东新闻,http://61.144.103.177:8090/udp/239.77.0.4:5146
-广东公共高清,http://61.144.103.177:8090/udp/239.77.0.225:5146
-广东公共,http://61.144.103.177:8090/udp/239.77.0.5:5146
-广东民生高清,http://61.144.103.177:8090/udp/239.77.0.225:5146
-广东民生,http://61.144.103.177:8090/udp/239.77.0.5:5146
-广东体育（深圳）,http://61.144.103.177:8090/udp/239.77.1.97:5146
-广东体育高清-测试,http://61.144.103.177:8090/udp/239.77.0.112:5146
-广东体育超清,http://61.144.103.177:8090/udp/239.77.0.168:5146
-广东体育,http://61.144.103.177:8090/udp/239.77.0.6:5146
-经济科教高清,http://61.144.103.177:8090/udp/239.77.0.85:5146
-经济科教超清,http://61.144.103.177:8090/udp/239.77.0.167:5146
-经济科教,http://61.144.103.177:8090/udp/239.77.0.8:5146
-广东影视高清,http://61.144.103.177:8090/udp/239.77.0.217:5146
-广东影视,http://61.144.103.177:8090/udp/239.77.0.11:5146
-广东少儿高清,http://61.144.103.177:8090/udp/239.77.0.250:5146
-广东少儿,http://61.144.103.177:8090/udp/239.77.0.12:5146
-嘉佳卡通高清,http://61.144.103.177:8090/udp/239.77.0.179:5146
-嘉佳卡通,http://61.144.103.177:8090/udp/239.77.0.13:5146
-嘉佳卡通,http://61.144.103.177:8090/udp/239.77.1.15:5146
-广东综艺 4K50p,http://61.144.103.177:8090/udp/239.77.1.236:5146
-广东综艺 4K,http://61.144.103.177:8090/udp/239.77.1.237:5146
-广东综艺(4k),http://61.144.103.177:8090/udp/239.77.0.244:5146
+广东卫视高清,http://119.23.60.89:8832/udp/239.77.1.19:5146
+广东卫视高清,http://119.23.60.89:8832/udp/239.77.1.152:5146
+广东卫视高清,http://119.23.60.89:8832/udp/239.77.0.84:5146
+广东卫视超清,http://119.23.60.89:8832/udp/239.77.0.166:5146
+南方卫视高清,http://119.23.60.89:8832/udp/239.77.0.215:5146
+南方卫视,http://119.23.60.89:8832/udp/239.77.0.9:5146
+南方卫视,http://119.23.60.89:8832/udp/239.77.1.12:5146
+广东珠江高清,http://119.23.60.89:8832/udp/239.77.0.1:5146
+广东珠江超清,http://119.23.60.89:8832/udp/239.77.0.114:5146
+广东新闻高清,http://119.23.60.89:8832/udp/239.77.0.173:5146
+广东新闻,http://119.23.60.89:8832/udp/239.77.0.4:5146
+广东公共高清,http://119.23.60.89:8832/udp/239.77.0.225:5146
+广东公共,http://119.23.60.89:8832/udp/239.77.0.5:5146
+广东民生高清,http://119.23.60.89:8832/udp/239.77.0.225:5146
+广东民生,http://119.23.60.89:8832/udp/239.77.0.5:5146
+广东体育（深圳）,http://119.23.60.89:8832/udp/239.77.1.97:5146
+广东体育高清-测试,http://119.23.60.89:8832/udp/239.77.0.112:5146
+广东体育超清,http://119.23.60.89:8832/udp/239.77.0.168:5146
+广东体育,http://119.23.60.89:8832/udp/239.77.0.6:5146
+经济科教高清,http://119.23.60.89:8832/udp/239.77.0.85:5146
+经济科教超清,http://119.23.60.89:8832/udp/239.77.0.167:5146
+经济科教,http://119.23.60.89:8832/udp/239.77.0.8:5146
+广东影视高清,http://119.23.60.89:8832/udp/239.77.0.217:5146
+广东影视,http://119.23.60.89:8832/udp/239.77.0.11:5146
+广东少儿高清,http://119.23.60.89:8832/udp/239.77.0.250:5146
+广东少儿,http://119.23.60.89:8832/udp/239.77.0.12:5146
+嘉佳卡通高清,http://119.23.60.89:8832/udp/239.77.0.179:5146
+嘉佳卡通,http://119.23.60.89:8832/udp/239.77.0.13:5146
+嘉佳卡通,http://119.23.60.89:8832/udp/239.77.1.15:5146
+广东综艺 4K50p,http://119.23.60.89:8832/udp/239.77.1.236:5146
+广东综艺 4K,http://119.23.60.89:8832/udp/239.77.1.237:5146
+广东综艺(4k),http://119.23.60.89:8832/udp/239.77.0.244:5146
 
 
 
 
-广东卫视高清,http://113.87.225.53:5000/udp/239.77.1.19:5146
-广东卫视高清,http://113.87.225.53:5000/udp/239.77.1.152:5146
-广东卫视高清,http://113.87.225.53:5000/udp/239.77.0.84:5146
-广东卫视超清,http://113.87.225.53:5000/udp/239.77.0.166:5146
-南方卫视高清,http://113.87.225.53:5000/udp/239.77.0.215:5146
-南方卫视,http://113.87.225.53:5000/udp/239.77.0.9:5146
-南方卫视,http://113.87.225.53:5000/udp/239.77.1.12:5146
-广东珠江高清,http://113.87.225.53:5000/udp/239.77.0.1:5146
-广东珠江超清,http://113.87.225.53:5000/udp/239.77.0.114:5146
-广东新闻高清,http://113.87.225.53:5000/udp/239.77.0.173:5146
-广东新闻,http://113.87.225.53:5000/udp/239.77.0.4:5146
-广东公共高清,http://113.87.225.53:5000/udp/239.77.0.225:5146
-广东公共,http://113.87.225.53:5000/udp/239.77.0.5:5146
-广东民生高清,http://113.87.225.53:5000/udp/239.77.0.225:5146
-广东民生,http://113.87.225.53:5000/udp/239.77.0.5:5146
-广东体育（深圳）,http://113.87.225.53:5000/udp/239.77.1.97:5146
-广东体育高清-测试,http://113.87.225.53:5000/udp/239.77.0.112:5146
-广东体育超清,http://113.87.225.53:5000/udp/239.77.0.168:5146
-广东体育,http://113.87.225.53:5000/udp/239.77.0.6:5146
-经济科教高清,http://113.87.225.53:5000/udp/239.77.0.85:5146
-经济科教超清,http://113.87.225.53:5000/udp/239.77.0.167:5146
-经济科教,http://113.87.225.53:5000/udp/239.77.0.8:5146
-广东影视高清,http://113.87.225.53:5000/udp/239.77.0.217:5146
-广东影视,http://113.87.225.53:5000/udp/239.77.0.11:5146
-广东少儿高清,http://113.87.225.53:5000/udp/239.77.0.250:5146
-广东少儿,http://113.87.225.53:5000/udp/239.77.0.12:5146
-嘉佳卡通高清,http://113.87.225.53:5000/udp/239.77.0.179:5146
-嘉佳卡通,http://113.87.225.53:5000/udp/239.77.0.13:5146
-嘉佳卡通,http://113.87.225.53:5000/udp/239.77.1.15:5146
-广东综艺 4K50p,http://113.87.225.53:5000/udp/239.77.1.236:5146
-广东综艺 4K,http://113.87.225.53:5000/udp/239.77.1.237:5146
-广东综艺(4k),http://113.87.225.53:5000/udp/239.77.0.244:5146
+广东卫视高清,http://113.74.224.24:8686/udp/239.77.1.19:5146
+广东卫视高清,http://113.74.224.24:8686/udp/239.77.1.152:5146
+广东卫视高清,http://113.74.224.24:8686/udp/239.77.0.84:5146
+广东卫视超清,http://113.74.224.24:8686/udp/239.77.0.166:5146
+南方卫视高清,http://113.74.224.24:8686/udp/239.77.0.215:5146
+南方卫视,http://113.74.224.24:8686/udp/239.77.0.9:5146
+南方卫视,http://113.74.224.24:8686/udp/239.77.1.12:5146
+广东珠江高清,http://113.74.224.24:8686/udp/239.77.0.1:5146
+广东珠江超清,http://113.74.224.24:8686/udp/239.77.0.114:5146
+广东新闻高清,http://113.74.224.24:8686/udp/239.77.0.173:5146
+广东新闻,http://113.74.224.24:8686/udp/239.77.0.4:5146
+广东公共高清,http://113.74.224.24:8686/udp/239.77.0.225:5146
+广东公共,http://113.74.224.24:8686/udp/239.77.0.5:5146
+广东民生高清,http://113.74.224.24:8686/udp/239.77.0.225:5146
+广东民生,http://113.74.224.24:8686/udp/239.77.0.5:5146
+广东体育（深圳）,http://113.74.224.24:8686/udp/239.77.1.97:5146
+广东体育高清-测试,http://113.74.224.24:8686/udp/239.77.0.112:5146
+广东体育超清,http://113.74.224.24:8686/udp/239.77.0.168:5146
+广东体育,http://113.74.224.24:8686/udp/239.77.0.6:5146
+经济科教高清,http://113.74.224.24:8686/udp/239.77.0.85:5146
+经济科教超清,http://113.74.224.24:8686/udp/239.77.0.167:5146
+经济科教,http://113.74.224.24:8686/udp/239.77.0.8:5146
+广东影视高清,http://113.74.224.24:8686/udp/239.77.0.217:5146
+广东影视,http://113.74.224.24:8686/udp/239.77.0.11:5146
+广东少儿高清,http://113.74.224.24:8686/udp/239.77.0.250:5146
+广东少儿,http://113.74.224.24:8686/udp/239.77.0.12:5146
+嘉佳卡通高清,http://113.74.224.24:8686/udp/239.77.0.179:5146
+嘉佳卡通,http://113.74.224.24:8686/udp/239.77.0.13:5146
+嘉佳卡通,http://113.74.224.24:8686/udp/239.77.1.15:5146
+广东综艺 4K50p,http://113.74.224.24:8686/udp/239.77.1.236:5146
+广东综艺 4K,http://113.74.224.24:8686/udp/239.77.1.237:5146
+广东综艺(4k),http://113.74.224.24:8686/udp/239.77.0.244:5146
 
 
 
@@ -341,16 +332,16 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 
 
 
-广东体育高清,http://61.144.103.177:8090/udp/239.77.0.112:5146
-广东体育超清,http://61.144.103.177:8090/udp/239.77.0.168:5146
-广东体育,http://61.144.103.177:8090/udp/239.77.0.6:5146
-广东体育（深圳）,http://61.144.103.177:8090/udp/239.77.1.97:5146
+广东体育高清,http://119.23.60.89:8832/udp/239.77.0.112:5146
+广东体育超清,http://119.23.60.89:8832/udp/239.77.0.168:5146
+广东体育,http://119.23.60.89:8832/udp/239.77.0.6:5146
+广东体育（深圳）,http://119.23.60.89:8832/udp/239.77.1.97:5146
 
 
-广东体育,http://113.87.225.53:5000/udp/239.77.0.6:5146
-广东体育（深圳）,http://113.87.225.53:5000/udp/239.77.1.97:5146
-广东体育高清,http://113.87.225.53:5000/udp/239.77.0.112:5146
-广东体育超清,http://113.87.225.53:5000/udp/239.77.0.168:5146
+广东体育,http://113.74.224.24:8686/udp/239.77.0.6:5146
+广东体育（深圳）,http://113.74.224.24:8686/udp/239.77.1.97:5146
+广东体育高清,http://113.74.224.24:8686/udp/239.77.0.112:5146
+广东体育超清,http://113.74.224.24:8686/udp/239.77.0.168:5146
 
 
 
@@ -426,10 +417,7 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 凤凰资讯高清,http://jxtv3.gdsz.eu.org:8081/hls/36/index.m3u8
 凤凰卫视高清,http://jxtv3.gdsz.eu.org:8081/hls/37/index.m3u8
 凤凰香港高清,http://jxtv3.gdsz.eu.org:8081/hls/38/index.m3u8
-凤凰资讯高清,http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰资讯高清,http://wouu.net:9977/udp/239.93.1.4:2191
-凤凰卫视高清,http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰卫视高清,http://wouu.net:9977/udp/239.93.1.9:2192
+
 
 
 
@@ -649,64 +637,6 @@ TVBS 新聞台,p3p://108.181.32.169:48527/64252188000673fcea647eb0397d464d
 
 
 
-
-
-
-
-CCTV-1综合,http://mail.petzhu.top:7000/rtp/239.254.200.45:8008$河北电信
-CCTV-1综合,http://foxwywh.x3322.net:8888/udp/239.252.219.200:5140$江西电信
-CCTV-2财经,http://mail.petzhu.top:7000/rtp/239.254.200.158:6000$河北电信
-CCTV-2财经,http://foxwywh.x3322.net:8888/udp/239.252.220.183:5140$江西电信
-CCTV-3综艺,http://mail.petzhu.top:7000/rtp/239.254.201.152:7205$河北电信
-CCTV-3综艺,http://foxwywh.x3322.net:8888/udp/239.252.219.252:5140$江西电信
-CCTV-4中文国际,http://mail.petzhu.top:7000/rtp/239.254.200.190:6307$河北电信
-CCTV-4中文国际,http://foxwywh.x3322.net:8888/udp/239.252.220.184:5140$江西电信
-CCTV-5体育,http://mail.petzhu.top:7000/rtp/239.254.201.153:7206$河北电信
-CCTV-5体育,http://foxwywh.x3322.net:8888/udp/239.252.219.198:5140$江西电信
-CCTV-6电影,http://mail.petzhu.top:7000/rtp/239.254.201.154:7207$河北电信
-CCTV-6电影,http://foxwywh.x3322.net:8888/udp/239.252.219.237:5140$江西电信
-CCTV-7国防军事,http://mail.petzhu.top:7000/rtp/239.254.200.159:6000$河北电信
-CCTV-7国防军事,http://foxwywh.x3322.net:8888/udp/239.252.220.185:5140$江西电信
-CCTV-8电视剧,http://mail.petzhu.top:7000/rtp/239.254.201.155:7208$河北电信
-CCTV-8电视剧,http://foxwywh.x3322.net:8888/udp/239.252.219.253:5140$江西电信
-CCTV-9纪录,http://mail.petzhu.top:7000/rtp/239.254.200.59:8112$河北电信
-CCTV-9纪录,http://foxwywh.x3322.net:8888/udp/239.252.220.186:5140$江西电信
-CCTV-10科教,http://mail.petzhu.top:7000/rtp/239.254.200.160:6000$河北电信
-CCTV-10科教,http://foxwywh.x3322.net:8888/udp/239.252.220.91:5140$江西电信
-CCTV-11戏曲,http://mail.petzhu.top:7000/rtp/239.254.201.123:8120$河北电信
-CCTV-11戏曲,http://foxwywh.x3322.net:8888/udp/239.252.219.78:5140$江西电信
-CCTV-12社会与法,http://mail.petzhu.top:7000/rtp/239.254.200.161:6000$河北电信
-CCTV-12社会与法,http://foxwywh.x3322.net:8888/udp/239.252.220.187:5140$江西电信
-CCTV-13新闻,http://mail.petzhu.top:7000/rtp/239.254.200.9:8264$河北电信
-CCTV-14少儿,http://mail.petzhu.top:7000/rtp/239.254.200.162:6000$河北电信
-CCTV-16,http://mail.petzhu.top:7000/rtp/239.254.201.150:6345$河北电信
-CCTV-16,http://blc.zmychn.cn:4000/udp/225.1.2.237:5002
-CCTV-17,http://mail.petzhu.top:7000/rtp/239.254.201.120:8144$河北电信
-CCTV-5+体育,http://mail.petzhu.top:7000/rtp/239.254.200.46:8004$河北电信
-CCTV-5+体育,http://foxwywh.x3322.net:8888/udp/239.252.219.72:5140$江西电信
-
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
-
-
-
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
@@ -800,137 +730,36 @@ CCTV5+,http://39.134.24.162/PLTV/88888888/224/3221225718/index.m3u8
 CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 
 
+
+
+
+
+
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+
+
+
+
  
 卫视IPV4,#genre#
-
-
-
-北京卫视,http://mail.petzhu.top:7000/rtp/239.254.200.47:8024$河北电信
-北京卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.206:5140$江西电信
-天津卫视,http://mail.petzhu.top:7000/rtp/239.254.200.54:1234$河北电信
-天津卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.61:5140$江西电信
-浙江卫视,http://mail.petzhu.top:7000/rtp/239.254.200.53:8036$河北电信
-浙江卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.210:5140$江西电信
-湖南卫视,http://mail.petzhu.top:7000/rtp/239.254.200.48:8012$河北电信
-江苏卫视,http://mail.petzhu.top:7000/rtp/239.254.200.51:8028$河北电信
-江苏卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.214:5140$江西电信
-辽宁卫视,http://mail.petzhu.top:7000/rtp/239.254.200.57:8056$河北电信
-辽宁卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.62:5140$江西电信
-吉林卫视,http://mail.petzhu.top:7000/rtp/239.254.201.15:6339$河北电信
-吉林卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.188:5140$江西电信
-黑龙江台,http://mail.petzhu.top:7000/rtp/239.254.200.49:8016$河北电信
-黑龙江台,http://foxwywh.x3322.net:8888/udp/239.252.219.211:5140$江西电信
-内蒙卫视,http://mail.petzhu.top:7000/rtp/239.254.200.84:8176$河北电信
-内蒙卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.48:5140$江西电信
-河北卫视,http://mail.petzhu.top:7000/rtp/239.254.200.174:6000$河北电信
-河北卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.154:5140$江西电信
-山西卫视,http://mail.petzhu.top:7000/rtp/239.254.200.83:8172$河北电信
-山西卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.27:5140$江西电信
-山东卫视,http://mail.petzhu.top:7000/rtp/239.254.200.55:8052$河北电信
-山东卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.228:5140$江西电信
-安徽卫视,http://mail.petzhu.top:7000/rtp/239.254.200.163:6000$河北电信
-安徽卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.83:5140$江西电信
-江西卫视,http://mail.petzhu.top:7000/rtp/239.254.201.12:6290$河北电信
-江西卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.63:5140$江西电信
-东南卫视,http://mail.petzhu.top:7000/rtp/239.254.201.13:6291$河北电信
-东南卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.82:5140$江西电信
-河南卫视,http://mail.petzhu.top:7000/rtp/239.254.201.16:7174$河北电信
-河南卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.189:5140$江西电信
-湖北卫视,http://mail.petzhu.top:7000/rtp/239.254.200.164:6000$河北电信
-湖北卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.208:5140$江西电信
-广东卫视,http://mail.petzhu.top:7000/rtp/239.254.200.56:8048$河北电信
-广东卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.213:5140$江西电信
-深圳卫视,http://mail.petzhu.top:7000/rtp/239.254.200.50:8020$河北电信
-深圳卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.212:5140$江西电信
-广西卫视,http://mail.petzhu.top:7000/rtp/239.254.200.80:8300$河北电信
-广西卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.183:5140$江西电信
-海南卫视,http://mail.petzhu.top:7000/rtp/239.254.201.125:6288$河北电信
-海南卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.178:5140$江西电信
-四川卫视,http://mail.petzhu.top:7000/rtp/239.254.200.202:6325$河北电信
-四川卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.93:5140$江西电信
-重庆卫视,http://mail.petzhu.top:7000/rtp/239.254.200.203:6323$河北电信
-重庆卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.94:5140$江西电信
-贵州卫视,http://mail.petzhu.top:7000/rtp/239.254.201.20:6315$河北电信
-贵州卫视,http://foxwywh.x3322.net:8888/udp/239.252.220.190:5140$江西电信
-云南卫视,http://mail.petzhu.top:7000/rtp/239.254.200.68:8108$河北电信
-云南卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.185:5140$江西电信
-陕西卫视,http://mail.petzhu.top:7000/rtp/239.254.200.82:8140$河北电信
-陕西卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.105:5140$江西电信
-宁夏卫视,http://mail.petzhu.top:7000/rtp/239.254.200.87:8124$河北电信
-宁夏卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.104:5140$江西电信
-甘肃卫视,http://mail.petzhu.top:7000/rtp/239.254.200.90:8188$河北电信
-甘肃卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.140:5140$江西电信
-青海卫视,http://mail.petzhu.top:7000/rtp/239.254.200.85:8184$河北电信
-青海卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.46:5140$江西电信
-新疆卫视,http://mail.petzhu.top:7000/rtp/239.254.200.89:8160$河北电信
-新疆卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.100:5140$江西电信
-兵团卫视,http://125.69.144.58:55555/udp/239.93.42.43:5140$四川电信
-兵团卫视,http://blc.zmychn.cn:4000/udp/225.1.1.57:5002$天津联通
-西藏卫视,http://mail.petzhu.top:7000/rtp/239.254.200.88:8164$河北电信
-西藏卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.106:5140$江西电信
-延边卫视,http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
-延边卫视,http://220.182.45.198:20088/tsfile/live/1000_1.m3u8$西藏电信
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-厦门卫视,http://foxwywh.x3322.net:8888/udp/239.252.219.75:5140$江西电信
-厦门卫视,https://itv.lat/tv/live.php?&line=1&id=xmws
-三沙卫视,http://125.210.152.21:9121/live/hzgq-ssws-h264.m3u8$杭州华数
-三沙卫视,http://59.55.35.32:20000/hls/61/index.m3u8$江西电信
-
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-
-
 
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -996,6 +825,65 @@ CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+
+
+
+
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
+
+
 
 
 
