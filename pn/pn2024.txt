@@ -53,18 +53,16 @@
 汕尾新闻高清,http://113.86.204.95:9999/udp/239.77.0.25:5146
 汕尾文化高清,http://113.86.204.95:9999/udp/239.77.0.187:5146
 
-揭西综合高清,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
-揭西综合台,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
 
-
-
-汕头经济,https://stqznews.top/tv/live/stjjhd.php 
-汕头文旅,https://stqznews.top/tv/live/stwlhd.php
-汕头综合,https://stqznews.top/tv/live/stzhbq.php 
+汕头经济生活,https://stqznews.top/tv/live/stjjhd.php 
+汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
+汕头新闻综合,https://stqznews.top/tv/live/stzhbq.php 
 汕头综合HD,https://stqznews.top/tv/live/stzhhd.php 
 汕头经济HD,https://stqznews.top/tv/live/stjjhd.php
-
-
+潮州综合,https://stqznews.top/tv/live/czzh.php
+潮州民生,https://stqznews.top/tv/live/czms.php
+汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
+汕头新闻综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
 
 揭阳综合,http://php.jdshipin.com:8880/tianma.php?id=jyzh
 揭阳生活,http://php.jdshipin.com:8880/tianma.php?id=jysh
@@ -73,6 +71,10 @@
 
 
 潮安综合,http://php.jdshipin.com:8880/PLTV/chudian.php?id=cazh
+揭西综合高清,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
+揭西综合台,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
+
+
 
 
 
@@ -343,6 +345,8 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 
 凤凰资讯高清,http://jxtv3.gdsz.eu.org:8081/hls/36/index.m3u8
 凤凰卫视高清,http://jxtv3.gdsz.eu.org:8081/hls/37/index.m3u8
+
+凤凰香港台,http://php.jdshipin.com:8880/fhhk.php
 凤凰香港高清,http://jxtv3.gdsz.eu.org:8081/hls/38/index.m3u8
 
 
@@ -404,48 +408,44 @@ HOY TV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
 J2台,,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 J2台,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 J2台,P2p://135.148.104.228:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-TVB无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-TVB无线新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-无线新闻4K,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+
+
 无线新闻4K,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 无线新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
-TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=6
+
 TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
-TVB无线新闻,mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
-TVB无线新闻,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
 
 香港31台高清,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 香港32台高清,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-无线财经频道,http://113.88.66.42:8001/bysid/85
+
 无线财经频道,http://nz189l149.bb27109.ctm.net:8892/bysid/85
 
 
-TVB J2,p3p://108.181.32.169:48527/641021800006a527985cd1244315142d
-VIU six,p3p://108.181.32.169:48527/6410215d000ad4ca985c497e192b3552
-RHK 31,p3p://108.181.32.169:48527/64101f330006ab429853d45f7940453b
-RHK 32,p3p://108.181.32.169:48527/641020b00001b8599859a360613572d7
-HOY咨询台有线新闻台,p3p://108.181.32.169:48527/6533f8d200067abd2d0ae8f534c10d88
-HOY咨询台有线新闻台(b),p3p://108.181.32.169:48527/6427e50e0008e093f53042b347a45e2f
-有線體育台,p3p://108.181.32.169:48527/64100a6b000527e19802a6b80be147fa
-有線耀才财经,p3p://108.181.32.169:48527/64102268000ecb1f98605d7b0a602bf4
-mytv super,p3p://108.181.32.169:48527/6533f044000117a52ce97ce95ac54bb3
-有線18台跑马,p3p://108.181.32.169:48527/6533f34d0002237a2cf5584a11195950
-CH288跑马,p3p://108.181.32.169:48527/6533f484000c2b3e2cfa19b55cab3b9b
-CH289跑马,p3p://108.181.32.169:48527/6533f5040003559d2cfc0b7268db0ab8
-無線新聞台,p3p://108.181.32.169:48527/6533fd5600043bdb2d1c8c0729c35d0c
-無線新聞台(b),p3p://108.181.32.169:48527/6533f9fb00006d352d0f6f9235041f8d
-無線財經台,p3p://108.181.32.169:48527/64100aec000c7bc59804a081537730cb
-NOW财经台,p3p://108.181.32.169:48527/641020d00004bf91985a212731011c3c
-NOW直播台,p3p://108.181.32.169:48527/6417e77b0007feb1b6b9f4ca25bc6e04
-NOW新闻台,p3p://108.181.32.169:48527/6410254c0006df63986ba60f292a7500
-凤凰中文,p3p://108.181.32.169:48527/6410229e000655dd98612e41401e3e7d
-凤凰资讯,p3p://108.181.32.169:48527/641022be000e5cc69861ad4f5a025336
-凤凰香港台,p3p://108.181.32.169:48527/641022da0005d3069862188000a64525
+TVB J2,p2p://108.181.32.169:48527/641021800006a527985cd1244315142d
+VIU six,p2p://108.181.32.169:48527/6410215d000ad4ca985c497e192b3552
+RHK 31,p2p://108.181.32.169:48527/64101f330006ab429853d45f7940453b
+RHK 32,p2p://108.181.32.169:48527/641020b00001b8599859a360613572d7
+HOY咨询台有线新闻台,p2p://108.181.32.169:48527/6533f8d200067abd2d0ae8f534c10d88
+HOY咨询台有线新闻台(b),p2p://108.181.32.169:48527/6427e50e0008e093f53042b347a45e2f
+有線體育台,p2p://108.181.32.169:48527/64100a6b000527e19802a6b80be147fa
+有線耀才财经,p2p://108.181.32.169:48527/64102268000ecb1f98605d7b0a602bf4
+mytv super,p2p://108.181.32.169:48527/6533f044000117a52ce97ce95ac54bb3
+有線18台跑马,p2p://108.181.32.169:48527/6533f34d0002237a2cf5584a11195950
+CH288跑马,p2p://108.181.32.169:48527/6533f484000c2b3e2cfa19b55cab3b9b
+CH289跑马,p2p://108.181.32.169:48527/6533f5040003559d2cfc0b7268db0ab8
+無線新聞台,p2p://108.181.32.169:48527/6533fd5600043bdb2d1c8c0729c35d0c
+無線新聞台(b),p2p://108.181.32.169:48527/6533f9fb00006d352d0f6f9235041f8d
+無線財經台,p2p://108.181.32.169:48527/64100aec000c7bc59804a081537730cb
+NOW财经台,p2p://108.181.32.169:48527/641020d00004bf91985a212731011c3c
+NOW直播台,p2p://108.181.32.169:48527/6417e77b0007feb1b6b9f4ca25bc6e04
+NOW新闻台,p2p://108.181.32.169:48527/6410254c0006df63986ba60f292a7500
+凤凰中文,p2p://108.181.32.169:48527/6410229e000655dd98612e41401e3e7d
+凤凰资讯,p2p://108.181.32.169:48527/641022be000e5cc69861ad4f5a025336
+凤凰香港台,p2p://108.181.32.169:48527/641022da0005d3069862188000a64525
 
 
 
@@ -545,17 +545,17 @@ NHK新闻资讯台,mitv://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 
-中視新聞,p3p://108.181.32.169:48527/642d016e000643ab0926e0907da252ca
-中天新闻,p3p://108.181.32.169:48527/64252571000be01dea73c63b5616781e
-壹電視新聞台,p3p://108.181.32.169:48527/642521bd0005dfe9ea654d921969472d
-东森新闻,p3p://108.181.32.169:48527/64251f9700046520ea5ce8b85b6c11da
-东森财经,p3p://108.181.32.169:48527/64251ff20001f010ea5e4b9002e57212
-非凡新聞台,p3p://108.181.32.169:48527/64258e8600060f7eec0e3ebd6c49020e
-寰宇新聞台,p3p://108.181.32.169:48527/64295eb60008744efaf37ae07d17520b
-TVBS 新聞台,p3p://108.181.32.169:48527/64252188000673fcea647eb0397d464d
-三立新闻 ,p3p://108.181.32.169:48527/64251e23000bcd04ea573d7c0f0a002e
-三立新闻 ,p3p://108.181.32.169:48527/64251e23000bcd04ea573d7c0f0a002e
-年代新聞,p3p://108.181.32.169:48527/645b2569000acf2fbd624de55e212fb2
+中視新聞,p2p://108.181.32.169:48527/642d016e000643ab0926e0907da252ca
+中天新闻,p2p://108.181.32.169:48527/64252571000be01dea73c63b5616781e
+壹電視新聞台,p2p://108.181.32.169:48527/642521bd0005dfe9ea654d921969472d
+东森新闻,p2p://108.181.32.169:48527/64251f9700046520ea5ce8b85b6c11da
+东森财经,p2p://108.181.32.169:48527/64251ff20001f010ea5e4b9002e57212
+非凡新聞台,p2p://108.181.32.169:48527/64258e8600060f7eec0e3ebd6c49020e
+寰宇新聞台,p2p://108.181.32.169:48527/64295eb60008744efaf37ae07d17520b
+TVBS 新聞台,p2p://108.181.32.169:48527/64252188000673fcea647eb0397d464d
+三立新闻 ,p2p://108.181.32.169:48527/64251e23000bcd04ea573d7c0f0a002e
+三立新闻 ,p2p://108.181.32.169:48527/64251e23000bcd04ea573d7c0f0a002e
+年代新聞,p2p://108.181.32.169:48527/645b2569000acf2fbd624de55e212fb2
 
 
 央视IPV4,#genre#
