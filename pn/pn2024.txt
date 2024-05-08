@@ -271,7 +271,7 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 广东体育（深圳）,http://14.153.215.108:4022/udp/239.77.1.97:5146
 
 
-
+广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 
@@ -279,7 +279,8 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 
 劲爆体育,http://kimzhu.dothome.co.kr/TV/NewSxg.php?/PLTV/&id=lqhxjcHDH265_4000
-
+劲爆体育,https://025365.xyz:8082/migu/mgtv.php
+劲爆体育,https://025365.xyz:8082/Best.php?id=jbty
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbty
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbtyhd/4000000
 
@@ -288,8 +289,10 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 新视觉,P2p://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 新视觉,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 新视觉,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
+新视觉,https://itv.lat/tv/live.php?&line=1&id=xsj
 
-
+魅力足球,https://025365.xyz:8082/migu/mgtv2.php
+魅力足球,https://025365.xyz:8082/cqyx2.php?id=mlzq
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://php.jdshipin.com:8880/bst.php?id=qcsj8m/8000000
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -297,14 +300,15 @@ CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212256
 
 
 
-
+五星体育,https://025365.xyz:8082/Best.php?id=wxty
+五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 
 咪咕足球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
+五星体育IPV6,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育IPV6,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 超级体育ipv6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 CCTV5-HD,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -333,6 +337,9 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 凤凰卫视资讯台,http://113.64.145.93:8081/hls/36/index.m3u8
 凤凰香港台,http://113.64.145.93:8081/hls/38/index.m3u8
 
+凤凰卫视资讯台,http://113.64.145.195:8081/hls/36/index.m3u8
+凤凰卫视中文台,http://113.64.145.195:8081/hls/37/index.m3u8
+凤凰香港台,http://113.64.145.195:8081/hls/38/index.m3u8
 
 凤凰中文IPV6,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰资讯IPV6,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
@@ -345,7 +352,7 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 18台,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
 有线18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 有线18台跑马,p3p://108.181.32.169:48527/6533f34d0002237a2cf5584a11195950
-有线18台跑马,p3p://108.181.32.169:57720/641002ab000aa8ea97e4621a4f8c0b83
+
 CH288跑马,p3p://108.181.32.169:48527/6533f484000c2b3e2cfa19b55cab3b9b
 CH289跑马,p3p://108.181.32.169:48527/6533f5040003559d2cfc0b7268db0ab8
 
